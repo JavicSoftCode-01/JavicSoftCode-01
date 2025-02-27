@@ -40,8 +40,8 @@
 
 - *Lenguajes*: JavaScript, Python
 - *Frameworks/Librerías*: Node.js, Express, Django
-- *Frontend*: HTML5, CSS3, JavaScript (para el desarrollo web)
-- *Backend*: Node.JS, Django (para el lado del servidor)
+- *Frontend*: HTML5, CSS3, JavaScript
+- *Backend*: Node.JS, Django 
 - *Bases de datos*: PostgreSQL
 - *Herramientas*: Git, GitHub, PyCharm
 - *Paradigmas*: Programación Orientada Objetos ( POO )
