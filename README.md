@@ -54,6 +54,9 @@
 - Habilidad en el control de versiones con Git y en hospedar proyectos en GitHub.
 - Familiarizado con el uso de PyCharm para el desarrollo en Python y Electron para aplicaciones de escritorio.
 
+### Git Hub Anterior
+https://github.com/JavicSoftCode
+
 ### Contáctame
 
 <div align="left">
