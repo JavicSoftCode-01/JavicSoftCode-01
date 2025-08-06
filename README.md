@@ -39,7 +39,7 @@ Me gusta adquirir nuevos conocimientos, proyectos realizados tantos personales y
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
 </div>
-###
+---
 
 ### Tecnologías que he estudiado
 
