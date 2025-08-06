@@ -39,25 +39,35 @@ Me gusta adquirir nuevos conocimientos, proyectos realizados tantos personales y
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
 </div>
----
 
 ### Tecnologías que he estudiado
 
 - *Lenguajes*: JavaScript, Python
 - *Frameworks/Librerías*: Node.js, Express, Django
-- *Frontend*: HTML5, CSS3, JavaScript
-- *Backend*: Node.JS, Django 
-- *Bases de datos*: PostgreSQL
-- *Herramientas*: Git, GitHub, PyCharm
+- *Frontend*: HTML5, CSS3, JavaScript, D3.js (visualización interactiva)
+- *Backend*: Node.JS, Django
+- *Procesos en segundo plano*: Celery (envío de correos en segundo plano, tareas asíncronas) 
+- *Bases de datos*: PostgreSQL, MySQL  
+- *IA & Data*: TensorFlow, oversampling, fine-tuning, Grad-CAM, metadata CSV  
+- *Herramientas*: Git, GitHub, PyCharm, Ngrok
 - *Paradigmas*: Programación Orientada Objetos ( POO )
-- *Otros*: Electron (lo usé brevemente para el desarrollo de aplicaciones)
+- *Uso Básico*: Electron (lo usé brevemente para el desarrollo de aplicaciones)
+- *Paradigmas*: POO, arquitectura MVC, control de roles y permisos 
 
 ### Habilidades
 
-- Competente en JavaScript, Python, Node.js y Express para el desarrollo backend.
+- Competente en JavaScript, Python, manejos del Dom y con peticiones al BackEnd.
+- Competente en Node.js, Express y Django para el desarrollo backend.
 - Experiencia en el uso de Django y PostgreSQL para construir aplicaciones web robustas.
 - Habilidad en el control de versiones con Git y en hospedar proyectos en GitHub.
 - Familiarizado con el uso de PyCharm para el desarrollo en Python y Electron para aplicaciones de escritorio.
+
+### 🔗 Mis Proyectos Destacados
+
+- **E-Commerce Django**: Gestión de productos, facturación electrónica y mapas, con Celery para email asíncrono.  
+- **Sistema Clínico**: Agendamiento de citas, facturación, mapas y seguridad por roles en Django + Celery.  
+- **DermaIA**: Pipeline completo de IA en TensorFlow, visualización con Grad-CAM y análisis de métricas.  
+
 
 ### Git Hub Anterior
 https://github.com/JavicSoftCode
