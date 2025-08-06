@@ -5,11 +5,7 @@
 ### 👨🏻‍💻 Acerca de mí  
 Soy un apasionado del software y el aprendizaje constante. He liderado proyectos académicos y personales tanto como full-stack, mi enfoque abarca más en el BackEnd y tengo conocimientos en el DOM, dominando desde el frontend hasta la construcción de APIs y pipelines de IA.
 Me gusta adquirir nuevos conocimientos, proyectos realizados tantos personales y academicos.
-
 ###
-<br>
----
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -43,7 +39,7 @@ Me gusta adquirir nuevos conocimientos, proyectos realizados tantos personales y
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
 </div>
-
+---
 ###
 
 ### Tecnologías que he estudiado
