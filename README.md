@@ -56,7 +56,7 @@ Me gusta adquirir nuevos conocimientos, proyectos realizados tantos personales y
 
 ### Habilidades
 
-- Competente en JavaScript, Python, manejos del Dom y con peticiones al BackEnd.
+- Competente en D3.js, JavaScript, Python, manejos del Dom y con peticiones al BackEnd.
 - Competente en Node.js, Express y Django para el desarrollo backend.
 - Experiencia en el uso de Django y PostgreSQL para construir aplicaciones web robustas.
 - Habilidad en el control de versiones con Git y en hospedar proyectos en GitHub.
@@ -75,22 +75,16 @@ https://github.com/JavicSoftCode
 ### Contáctame
 
 <div align="left">
-  <a href="mailto:ing.javiersistem02ejqp@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo de gmail" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=javicsoftcode@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail badge" />
   </a>
-  <a href="https://www.linkedin.com/in/tuperfil">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo de linkedin" />
+  <a href="https://www.linkedin.com/in/javier-quinteros-pacheco" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn badge" />
   </a>
-  <a href="https://www.instagram.com/tuperfil">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo de instagram" />
-  </a>
-  <a href="https://www.facebook.com/tuperfil">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo de facebook" />
+  <a href="https://wa.link/o4ylaj" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" alt="WhatsApp badge" />
   </a>
   <a href="https://paypal.me/SistemJavic16?country.x=EC&locale.x=es_XC">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo de paypal" />
-  </a>
-  <a href="https://t.me/tuperfil">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo de telegram" />
   </a>
 </div>
