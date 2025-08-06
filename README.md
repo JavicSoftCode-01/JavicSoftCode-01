@@ -1,6 +1,6 @@
 <h2 align="left">¡Hola! 👋 Soy Javier, estudiante de Ingeniería en Software (6to semestre) originario de Ecuador.</h2>
 
-<img align="right" height="200" style="border-radius: 8;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ4dHQ2MDA4YWg3N281MGV0YXV0NDR3M3Z4Z3Zkb3duczFuazIwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" height="190" style="border-radius: 8;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ4dHQ2MDA4YWg3N281MGV0YXV0NDR3M3Z4Z3Zkb3duczFuazIwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 👨🏻‍💻 Acerca de mí  
 Soy un apasionado del software y el aprendizaje constante. He liderado proyectos académicos y personales tanto como full-stack, mi enfoque abarca más en el BackEnd y tengo conocimientos en el DOM, dominando desde el frontend hasta la construcción de APIs y pipelines de IA.
