@@ -75,9 +75,18 @@ https://github.com/JavicSoftCode
 ### Contáctame
 
 <div align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=javicsoftcode@gmail.com&su=Contacto%20desde%20GitHub&body=Buenas%20días%20Javier%2C%0A%0AMe%20gustaría%20contactarme%20contigo%20después%20de%20ver%20tu%20perfil%20en%20GitHub.%20Quedo%20atento%20a%20tus%20comentarios.%0A%0ASaludos%20cordiales%2C" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail badge" />
-  </a>
+ <a
+  href="https://mail.google.com/mail/?view=cm&fs=1&to=javicsoftcode@gmail.com&su=Contacto%20desde%20GitHub&body=Buenas%20d%C3%ADas%20Javier%2C%0A%0AMe%20gustar%C3%ADa%20contactarme%20contigo%20despu%C3%A9s%20de%20ver%20tu%20perfil%20en%20GitHub.%20Quedo%20atento%20a%20tus%20comentarios.%0A%0ASaludos%20cordiales%2C"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <img
+    src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
+    height="35"
+    alt="Gmail badge"
+  />
+</a>
+
   <a href="https://www.linkedin.com/in/javier-quinteros-pacheco" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn badge" />
   </a>
